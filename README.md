@@ -21,3 +21,12 @@ Ini adalah proyek UTS untuk memenuhi tugas UTS pada mata kuliah Pemrograman Bero
     ```shell
     java -cp out/production/proyek-uts-pbo Main
     ```
+
+## Cara Login
+
+Setelah aplikasi dijalankan, pengguna akan diminta untuk melakukan login. Gunakan kredensial berikut untuk masuk:
+
+* Username: `admin`
+* Password: `admin`
+
+Jika username dan password yang dimasukkan benar, pengguna akan diarahkan ke antarmuka utama aplikasi. Jika salah, pesan kesalahan akan ditampilkan.
