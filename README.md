@@ -8,9 +8,9 @@ Ini adalah proyek UTS untuk memenuhi tugas UTS pada mata kuliah Pemrograman Bero
 2. Arahkan ke direktori proyek ini.
 3. Jalankan perintah berikut untuk membangun proyek:
     ```shell
-    javac -d out/production/proyek-uts-3 src/*.java
+    javac -d out/production/proyek-uts-pbo src/*.java
     ```
-4. Hasil build akan tersedia di direktori `out/production/proyek-uts-3`.
+4. Hasil build akan tersedia di direktori `out/production/proyek-uts-pbo`.
 
 ## Cara Menjalankan
 
@@ -19,5 +19,5 @@ Ini adalah proyek UTS untuk memenuhi tugas UTS pada mata kuliah Pemrograman Bero
 3. Arahkan ke direktori proyek ini.
 4. Jalankan kelas Main dengan perintah berikut:
     ```shell
-    java -cp out/production/proyek-uts-3 Main
+    java -cp out/production/proyek-uts-pbo Main
     ```
